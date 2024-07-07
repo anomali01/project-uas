@@ -10,6 +10,7 @@ public class array3 {
 			int c = data.nextInt(100);
 			a[i] = c;
 			System.out.println("slot " + b[i] + " terisi " + a[i]);
+			System.out.println();
 		}
 		
 	}
